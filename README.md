@@ -1,0 +1,1 @@
+Github repository created to provide code examples for the manuscript "On Constructing Efficient UAV Aerodynamic Surrogate Models for Digital Twins". It will be updated once the paper has undergone revision.
